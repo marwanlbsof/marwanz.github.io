@@ -1,0 +1,17 @@
+{
+  "cwd": "C:\\Users\\marwan\\Desktop\\bsofapp",
+  "type": [
+    "web"
+  ],
+  "name": "bsofapp",
+  "framework": "core",
+  "template": "tabs",
+  "bundler": false,
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false
+}
